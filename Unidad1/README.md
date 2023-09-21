@@ -20,15 +20,15 @@ Desarrolle un algoritmo que permita leer dos valores distintos, determinar cual 
 
 Pasos: 
 - Inicio 
-- Inicializar variables: ___A=0,B=0___
-- Solicitar la introducción de los valores distintos.
-- Leer los dos valores.
-- Asignarlos a las variables ___A y B___.
-- Si ___A=B___ Entonces vuelve a 3 porque los valores deben ser distintos
-- Si ___A>B___ Entonces
-- Escribir ___A___ "es el mayor"
-- De lo contrario: Escribir ___B___, "Es el mayor".
-- Fin.
+- __Inicializar__ variables: ___A=0,B=0___
+- __Solicitar__ la introducción de los valores distintos.
+- __Leer__ los dos valores.
+- __Asignarlos__ a las variables ___A y B___.
+- Si ___A=B___ entonces vuelve a 3 porque los valores deben ser distintos
+- Si ___A>B___ entonces
+- __Escribir__ ___A___ "es el mayor"
+- De lo contrario: escribir ___B___, "es el mayor".
+- __Fin__.
 
 ### Diagrama de Flujo
 ---
