@@ -16,26 +16,28 @@ Desarrolle un algoritmo que permita leer dos valores distintos, determinar cual 
 
 ---
 
-### Diagrama de Flujo
+### Pseudocodigo
 
-1. Inicio 
-2. Inicializar variables: A=0,B=0
-3. Solicitar la introducción de los valores distintos.
-4. Leer los dos valores.
-5. Asignarlos a las variables A y B.
-6. Si A=B Entonces vuelve a 3 porque los valores deben ser distintos
-7. Si A>B Entonces
-   Escribir A "es el mayor"
-8. De lo contrario: Escribir B, "Es el mayor".
-9. Fin_si
-10. Fin.
-
-
-</dir>
+Pasos: 
+- Inicio 
+- Inicializar variables: ___A=0,B=0___
+- Solicitar la introducción de los valores distintos.
+- Leer los dos valores.
+- Asignarlos a las variables ___A y B___.
+- Si ___A=B___ Entonces vuelve a 3 porque los valores deben ser distintos
+- Si ___A>B___ Entonces
+- Escribir ___A___ "es el mayor"
+- De lo contrario: Escribir ___B___, "Es el mayor".
+- Fin.
 
 ### Diagrama de Flujo
-  ---
+---
 
 <div align="center">
 <img src="images/Diagrama%20flujo.drawio.png"/>
 </div>
+
+---
+
+</dir>
+
