@@ -39,12 +39,15 @@ Pasos:
 </div>
 
 ---
+
 ## Ejercicio 2<a name="ejercicio2"></a>
 
 Desarrolle un algoritmo que permita leer tres valores y almacenarlos en las variables A, B y C
 respectivamente. El algoritmo debe imprimir cual es el mayor y cual es el menor. Recuerde constatar que
 los tres valores introducidos por el teclado sean valores distintos. Presente un mensaje de alerta en caso de
 que se detecte la introducción de valores iguales
+
+---
 
 ### Pseudocodigo 
 
@@ -67,5 +70,30 @@ Pasos:
 
 ---
 
+## Ejercicio 3<a name="ejercicio3"></a>
+Desarrolle un algoritmo que realice la sumatoria de los números enteros comprendidos entre el 1 y el 10, es decir, 1 + 2 + 3 + .... + 10.
+
+---
+
+### Pseudocodigo
+---
+
+- Inicio
+- Declaración de variables:
+- Asignación Contador:
+- Asignación Acumulador:
+- Si N = 10 Entonces
+- Escribir Suma
+- De lo contrario, repetir desde el paso 3
+- Fin
+
+---
+
+### Diagrama de Flujo
+---
+
+
+
+---
 </dir>
 
