@@ -8,6 +8,8 @@
 
 - [Ejercicio 1](#ejercicio1)
 - [Ejercicio 2](#ejercicio2)
+- [Ejercicio 2](#ejercicio3)
+
 
 
 ## Ejercicio 1<a name="ejercicio1"></a>
