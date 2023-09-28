@@ -94,7 +94,7 @@ Desarrolle un algoritmo que realice la sumatoria de los números enteros compren
 ### Diagrama de Flujo
 ---
 
-
+<img src="images/Diagrama½20ejercicio½3.drawio.png"/>
 
 ---
 </dir>
