@@ -1,12 +1,17 @@
-import static org.junit.Assert.assertEquals;
+import ies.puerto.Ejercicio1;
 import org.junit.Test;
+import static org.junit.Assert.assertEquals;
 
-public class Ejercicio1Test {
+public class TestEjercicio1 {
 
     @Test
     public void testSumar() {
-        int resultadoEsperado = 15; // La suma esperada de {1, 2, 3, 4, 5} es 15
-        int resultadoObtenido = Ejercicio1.sumar();
-        assertEquals(resultadoEsperado, resultadoObtenido);
+
+        int[] array = {1, 2, 3, 4, 5};
+        int expectedResult = 15;
+
+        int actualResult = Ejercicio1.sumar();
+
+        assertEquals(expectedResult, actualResult);
     }
 }
