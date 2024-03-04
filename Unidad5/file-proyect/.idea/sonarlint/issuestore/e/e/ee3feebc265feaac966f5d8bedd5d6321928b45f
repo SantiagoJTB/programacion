@@ -1,0 +1,15 @@
+
+­
+java:S3577"ŠRename class "fileCsvTest" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(²Š ªıÿÿÿÿ8ÙĞÑà1
+@
+java:S5786"Remove this 'public' modifier.(«ä…ùÿÿÿÿ8ÙĞÑà1
+;
+java:S5786"Remove this 'public' modifier.(ÉÆ³­8ÙĞÑà1
+@
+java:S5786&"Remove this 'public' modifier.(¶ÆÇúÿÿÿÿ8ÙĞÑà1
+@
+java:S5786"Remove this 'public' modifier.(²Š ªıÿÿÿÿ8ÙĞÑà1
+s
+java:S3415"VSwap these 2 arguments so they are in the correct order: expected value, actual value.(Øˆš¸8ÙĞÑà1
+g
+java:S5845!"JChange the assertion arguments to not compare a primitive value with null.(ŸÚßœ8ÙĞÑà1

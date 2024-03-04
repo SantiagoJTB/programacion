@@ -1,0 +1,52 @@
+
+‡
+java:S1319"eThe type of "cuidados" should be an interface such as "Set" rather than the implementation "HashSet".(Şµ¶¥ûÿÿÿÿ8ñ£°Ş1
+r	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’“ÈÖùÿÿÿÿ8ñ£°Ş1
+m	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û—ô8‘ñ£°Ş1
+w
+java:S1104	"UMake alimentos a static final constant or non-public and provide accessors if needed.(ò¿Ø×ùÿÿÿÿ8“ñ£°Ş1
+v
+java:S1104
+"TMake aparatos a static final constant or non-public and provide accessors if needed.(™Ş€İûÿÿÿÿ8•ñ£°Ş1
+r
+java:S1104"UMake soubenirs a static final constant or non-public and provide accessors if needed.(¥î„Ä8–ñ£°Ş1
+v
+java:S1104"TMake cuidados a static final constant or non-public and provide accessors if needed.(Şµ¶¥ûÿÿÿÿ8—ñ£°Ş1
+Q
+java:S1444	"/Make this "public static alimentos" field final(ò¿Ø×ùÿÿÿÿ8™ñ£°Ş1
+P
+java:S1444
+".Make this "public static aparatos" field final(™Ş€İûÿÿÿÿ8›ñ£°Ş1
+L
+java:S1444"/Make this "public static soubenirs" field final(¥î„Ä8œñ£°Ş1
+P
+java:S1444".Make this "public static cuidados" field final(Şµ¶¥ûÿÿÿÿ8ñ£°Ş1
+?
+java:S2386	"Make this member "protected".(ò¿Ø×ùÿÿÿÿ8®ò£°Ş1
+?
+java:S2386
+"Make this member "protected".(™Ş€İûÿÿÿÿ8¯ò£°Ş1
+:
+java:S2386"Make this member "protected".(¥î„Ä8¯ò£°Ş1
+?
+java:S2386"Make this member "protected".(Şµ¶¥ûÿÿÿÿ8¯ò£°Ş1
+V
+java:S1118":Add a private constructor to hide the implicit public one.(ıÏ†y8´ò£°Ş1
+L	java:S106"+Replace this use of System.out by a logger.(Ü¼âÁùÿÿÿÿ8×ò£°Ş1
+L	java:S106"+Replace this use of System.out by a logger.(íò×»ùÿÿÿÿ8Øò£°Ş1
+L	java:S106"+Replace this use of System.out by a logger.(ÕÃÂÏøÿÿÿÿ8Úò£°Ş1
+L	java:S106"+Replace this use of System.out by a logger.(©²ğùùÿÿÿÿ8İò£°Ş1
+L	java:S106"+Replace this use of System.out by a logger.(Õæ±üÿÿÿÿ8ßò£°Ş1
+L	java:S106"+Replace this use of System.out by a logger.(º™îßıÿÿÿÿ8áò£°Ş1
+G	java:S106"+Replace this use of System.out by a logger.(ÖûŠ™8ïò£°Ş1
+L	java:S106"+Replace this use of System.out by a logger.(Ìğà§ûÿÿÿÿ8óò£°Ş1
+o
+java:S3776M"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(û—ô8¡ó£°Ş1
+L	java:S106k"+Replace this use of System.out by a logger.(Ñçüƒøÿÿÿÿ8Èó£°Ş1
+F	java:S106n"+Replace this use of System.out by a logger.(èŸÁ98Îó£°Ş1
+L	java:S106s"+Replace this use of System.out by a logger.(ææºâşÿÿÿÿ8Ğó£°Ş1
+L	java:S106y"+Replace this use of System.out by a logger.(Ö°ñ„üÿÿÿÿ8Òó£°Ş1
+G	java:S106"+Replace this use of System.out by a logger.(›¬ÿ”8Óó£°Ş1
+H	java:S106…"+Replace this use of System.out by a logger.(ş½¡À8Õó£°Ş1
+M	java:S106"+Replace this use of System.out by a logger.(ñÊ†úÿÿÿÿ8Øó£°Ş1
+M	java:S106—"+Replace this use of System.out by a logger.(â…Šáÿÿÿÿÿ8Şó£°Ş1
